@@ -1,3 +1,4 @@
 #!/bin/bash
-
-echo "Hello world
+if [ 1 -eq 1]
+    echo "Numbers are equal" 
+fi
