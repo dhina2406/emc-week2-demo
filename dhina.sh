@@ -1,3 +1,3 @@
-#!/bin/bashj
+#!/bin/bash
 
 echo "Hello world
